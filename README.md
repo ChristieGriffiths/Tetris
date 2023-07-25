@@ -67,5 +67,3 @@ npm run test
 * [Cameron Murison](URL "https://github.com/CKMurison")
 * [Aubrey Salmins](URL "https://github.com/aubreysalmins")
 * [Michael Szczepanski](URL "https://github.com/michael-szczepanski")
-* [Link to project repository](URL "https://github.com/CKMurison/Tetris/")
-* Project created as part of the [Makers Academy](URL "https://makers.tech/") software development course
